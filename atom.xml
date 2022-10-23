@@ -6,7 +6,7 @@
   <link href="https://vuili.github.io/atom.xml" rel="self"/>
   
   <link href="https://vuili.github.io/"/>
-  <updated>2022-10-22T13:55:11.225Z</updated>
+  <updated>2022-08-27T15:41:02.000Z</updated>
   <id>https://vuili.github.io/</id>
   
   <author>
@@ -17,182 +17,492 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/9hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/9hello-world/</id>
-    <published>2022-10-22T14:01:46.861Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>AIDA64 安卓手机硬件检测工具 解锁内购版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E5%B7%A5%E5%85%B7/AIDA64%E7%A1%AC%E4%BB%B6%E6%A3%80%E6%B5%8B/"/>
+    <id>https://vuili.github.io/2022/06/06/%E5%B7%A5%E5%85%B7/AIDA64%E7%A1%AC%E4%BB%B6%E6%A3%80%E6%B5%8B/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="AIDA64-安卓手机硬件检测工具-解锁内购版"><a href="#AIDA64-安卓手机硬件检测工具-解锁内购版" class="headerlink" title="AIDA64 安卓手机硬件检测工具 解锁内购版"></a>AIDA64 安卓手机硬件检测工具 解锁内购版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/164.png"></p><p>AIDA64 - 硬件检测工具</p><p>aida64 作为 pc 端中最专业的测试硬件信息和系统信息工具，针对系统硬件查询的信息早已远远超过 CPU-Z 等专业硬件检测软件丰富。因此官方在近日推出了全新版本的 aida64 android，该版本主要是运行在安卓手机当中，能够轻易的为手机检测出各种不同的信息，比如说：系统、CPU、显示、网络、电池、设备、温度、传感器、应用程序等。虽说 aida64 安卓版在硬件测试方面还没有 Windows 平台强大，也没有那么多的传感器信息检测，但是鉴于安卓平台这类软件如此多功能的还是不多，所以还是大力推荐这款软件的。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/165.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/167.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><ul><li>解锁内购，免广告，移除广告活动和服务</li><li>禁用且删除了不必要的权限、服务、接收器、提供器</li><li>清理调试代码、不必要资源文件、对齐优化极限压缩</li></ul><div class="note success no-icon flat"><p>当前版本：v 1.87<br>软件大小：8MB<br>下载：<a href="https://wwd.lanzoul.com/iGXU505rjx1g">https://wwd.lanzoul.com/iGXU505rjx1g</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;AIDA64-安卓手机硬件检测工具-解锁内购版&quot;&gt;&lt;a href=&quot;#AIDA64-安卓手机硬件检测工具-解锁内购版&quot; class=&quot;headerlink&quot; title=&quot;AIDA64 安卓手机硬件检测工具 解锁内购版&quot;&gt;&lt;/a&gt;AIDA64 安卓手机硬件检测工具</summary>
       
     
     
     
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="硬件检测工具" scheme="https://vuili.github.io/tags/%E7%A1%AC%E4%BB%B6%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/8hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/8hello-world/</id>
-    <published>2022-10-22T14:01:37.849Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>Castto TV 投屏神器 将网站内视频投射到电视/支持自定义(高级版)</title>
+    <link href="https://vuili.github.io/2022/06/06/%E5%BD%B1%E9%9F%B3/Castto%E6%8A%95%E5%B1%8F/"/>
+    <id>https://vuili.github.io/2022/06/06/%E5%BD%B1%E9%9F%B3/Castto%E6%8A%95%E5%B1%8F/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Castto-TV-投屏神器-将网站内视频投射到电视-支持自定义-高级版"><a href="#Castto-TV-投屏神器-将网站内视频投射到电视-支持自定义-高级版" class="headerlink" title="Castto TV 投屏神器 将网站内视频投射到电视/支持自定义(高级版)"></a>Castto TV 投屏神器 将网站内视频投射到电视/支持自定义(高级版)</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/137.png"></p><p>Cast to TV - 投屏神器</p><p>可以自定义国内视频网站，支持自动过滤部分网站动态广告，可导入 IPTV 源。</p><p>Cast Web Video 使您可以将在线视频直接投射到电视上，包括热门电影、新闻和体育直播、电视节目、音乐会等。您还可以轻松地将本地视频、照片和音乐从手机投射到电视上。立即免费投射到电视并在电视上欣赏电影！</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/138.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/139.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>■ 热门免费功能<br>■ 播放在线视频、音乐。<br>■ 将本地文件从手机流式传输到电视。<br>■IPTV 和直播视频。<br>■ 用于搜索您喜欢的电影的内置浏览器。<br>■ 视频历史和书签。<br>■ 广告拦截器和弹出窗口拦截器。<br>■ 远程控制进度和音量。<br>■ 多种视频分辨率可供选择，包括 8k、4k、1080P 等。<br>■ 支持视频恢复。<br>■ 自动抓取来自 YouTube、Vimeo、Buzzfeed 等的视频和音频。</p><div class="note success no-icon flat"><p>当前版本：v 9.9.9<br>软件大小：11MB<br>下载：<a href="https://wwd.lanzoul.com/iytXv054u5kf">https://wwd.lanzoul.com/iytXv054u5kf</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;Castto-TV-投屏神器-将网站内视频投射到电视-支持自定义-高级版&quot;&gt;&lt;a href=&quot;#Castto-TV-投屏神器-将网站内视频投射到电视-支持自定义-高级版&quot; class=&quot;headerlink&quot; title=&quot;Castto TV 投屏神器 将网站内视</summary>
       
     
     
     
+    <category term="影视" scheme="https://vuili.github.io/categories/%E5%BD%B1%E8%A7%86/"/>
+    
+    
+    <category term="投屏" scheme="https://vuili.github.io/tags/%E6%8A%95%E5%B1%8F/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/76hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/76hello-world/</id>
-    <published>2022-10-22T14:01:27.688Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>1ID+ 原IDM+ 多功能下载器 无广告纯净版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E5%B7%A5%E5%85%B7/IDM%E4%B8%8B%E8%BD%BD%E5%99%A8/"/>
+    <id>https://vuili.github.io/2022/06/06/%E5%B7%A5%E5%85%B7/IDM%E4%B8%8B%E8%BD%BD%E5%99%A8/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="1ID-原-IDM-多功能下载器-无广告纯净版"><a href="#1ID-原-IDM-多功能下载器-无广告纯净版" class="headerlink" title="1ID+ 原 IDM+ 多功能下载器 无广告纯净版"></a>1ID+ 原 IDM+ 多功能下载器 无广告纯净版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/144.png"></p><p>1Dm - 万能下载器</p><p>IDM+ 号称是目前 Android 平台最快、最先进的下载管理器应用「支持通过 Torrent 下载」。官方号称其下载速度是正常下载速度的 500％。实际下载速度也是很可观的，可以和 ADM 比肩。而且 IDM+ 不运行后台服务，如果没有什么下载和智能下载选项被禁用这增加了电池的寿命。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/145.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/146.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>无广告下载您的设备上使用磁铁链接，洪流网址或 torrent 文件的 torrent 文件<br>高达 5 个同时下载<br>多部分下载 – 高达每下载 32 个并发部分<br>支持代理（带或不带身份验证）<br>限速器限制下载速度（全球以及个体）<br>刷新过期链接（直接或使用内置的浏览器）<br>下载密码保护的文件<br>计算 MD5 校验</p><p>支持的语言：中国（繁体），中国（简体），捷克语，西班牙语，西班牙语（拉丁美洲），法语，德语，希腊语，意大利语，印尼语，日语，韩语，匈牙利语，葡萄牙语，葡萄牙语（巴西），Русский，波兰语，斯洛伐克，塞尔维亚，Türkçe，العربية，南非荷兰语</p><p>直接下载到 SD 卡（应该在 Android 4.4 系统的工作，以及）<br>支持 HTTP 流媒体直播网站从每个人都隐藏下载的文件智能下载选项下载文件时复制下载链接到剪贴板选项来保存用户名密码自动登录，同时浏览和密码保护的网站下载</p><div class="note success no-icon flat"><p>当前版本：v 15.2<br>软件大小：19MB<br>下载：<a href="https://wwd.lanzoul.com/iKaFT05aiy9c">https://wwd.lanzoul.com/iKaFT05aiy9c</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;1ID-原-IDM-多功能下载器-无广告纯净版&quot;&gt;&lt;a href=&quot;#1ID-原-IDM-多功能下载器-无广告纯净版&quot; class=&quot;headerlink&quot; title=&quot;1ID+ 原 IDM+ 多功能下载器 无广告纯净版&quot;&gt;&lt;/a&gt;1ID+ 原 IDM+ 多功能</summary>
       
     
     
     
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="IDM下载器" scheme="https://vuili.github.io/tags/IDM%E4%B8%8B%E8%BD%BD%E5%99%A8/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/6hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/6hello-world/</id>
-    <published>2022-10-22T13:56:35.184Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>Fancy Cleaner 极光清理 无广告纯净版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E5%B7%A5%E5%85%B7/%E6%9E%81%E5%85%89%E6%B8%85%E7%90%86/"/>
+    <id>https://vuili.github.io/2022/06/06/%E5%B7%A5%E5%85%B7/%E6%9E%81%E5%85%89%E6%B8%85%E7%90%86/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Fancy-Cleaner-极光清理-无广告纯净版"><a href="#Fancy-Cleaner-极光清理-无广告纯净版" class="headerlink" title="Fancy Cleaner 极光清理 无广告纯净版"></a>Fancy Cleaner 极光清理 无广告纯净版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/158.png"></p><p>Fancy Cleaner - 极光清理</p><p>Fancy Clean 2022 是一款快速、轻便且功能强大的 Android 防病毒、手机清洁器和助推器应用程序。只需轻轻一按，即可清除病毒、提升手机内存和清理存储空间。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/159.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/160.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>Fancy Clean 2022 手机清洁器突出功能</p><p>适用于 Android 的智能手机清洁器 - 智能垃圾清洁器引擎和速度清洁器</p><p>病毒清洁器 - 从您的设备中快速轻松地清除病毒</p><p>快速手机清洁器和助推器 - 一键提升和自动清洁手机内存和存储空间</p><p>缓存垃圾清理器 - 删除任何会降低设备速度和 RAM 使用率的垃圾文件</p><p>增强内存 - 清理垃圾文件并深入优化存储</p><p>应用程序锁 - 使用密码和模式锁定应用程序以保护您的隐私</p><p>通知清理器 -将烦人的应用通知安排和清除到清晰的通知栏</p><p>省电模式 – 通过休眠正在运行的应用程序来节省电池电量并延长电池寿命</p><p>网络分析 – 监控正在消耗您的移动流量的应用程序并一键将其休眠</p><p>类似照片清理 – 一键扫描并自动清理相似和重复的垃圾照片在您的设备上</p><div class="note success no-icon flat"><p>当前版本：v 6.33<br>软件大小：21MB<br>下载：<a href="https://wwd.lanzoul.com/idpCo05mplkj">https://wwd.lanzoul.com/idpCo05mplkj</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;Fancy-Cleaner-极光清理-无广告纯净版&quot;&gt;&lt;a href=&quot;#Fancy-Cleaner-极光清理-无广告纯净版&quot; class=&quot;headerlink&quot; title=&quot;Fancy Cleaner 极光清理 无广告纯净版&quot;&gt;&lt;/a&gt;Fancy Clean</summary>
       
     
     
     
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="手机清理" scheme="https://vuili.github.io/tags/%E6%89%8B%E6%9C%BA%E6%B8%85%E7%90%86/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/4hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/4hello-world/</id>
-    <published>2022-10-22T13:56:24.698Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>Fotor Photo Pro - 照片编辑器 解锁会员专业版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E7%BE%8E%E5%8C%96/Fotor%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91/"/>
+    <id>https://vuili.github.io/2022/06/06/%E7%BE%8E%E5%8C%96/Fotor%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Fotor-Photo-Pro-照片编辑器-解锁会员专业版"><a href="#Fotor-Photo-Pro-照片编辑器-解锁会员专业版" class="headerlink" title="Fotor Photo Pro - 照片编辑器 解锁会员专业版"></a>Fotor Photo Pro - 照片编辑器 解锁会员专业版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/171.png"></p><p>Fotor Photo - 照片编辑器</p><p>Fotor Photo Editor Pro 是一款功能强大的照片编辑应用程序，它不仅可以让您将滤镜和相框应用于您的照片，还可以修改颜色并在任何照片上插入有趣的贴纸。</p><p>Fotor Photo Editor Pro 总共有 50 多种不同的滤镜和效果，您可以将它们应用于您的图片，只需轻轻一点即可更改它们的外观。您还可以应用不止一种效果，将它们结合起来以获得惊人的效果。</p><p>强大的照片编辑、平面设计、照片拼贴功能，结合专业的照片效果、创意设计模板和高级设计资源，使您能够进行照片编辑和平面设计，以及轻松分享到 Instagram 或 Facebook。用美丽的创作记录生活的亮点。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/172.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/173.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>应用简介：强大的图片编辑社交平台。随时使用图片拼贴，图片特效，照片滤镜，贴纸或在照片上添加文字，马赛克和照片边框等功能，拍摄与美图创作一步到位，随时分享！</p><ul><li>高级/订阅功能解锁</li><li>移除/禁用无关代码</li><li>移除/禁用广告</li></ul><div class="note success no-icon flat"><p>当前版本：v 7.3.5.237<br>软件大小：151MB<br>链接：<a href="https://pan.quark.cn/s/1432382e09fb">https://pan.quark.cn/s/1432382e09fb</a><br>链接：<a href="https://www.123pan.com/s/DY5A-Cahsd">https://www.123pan.com/s/DY5A-Cahsd</a><br>安装包较大，因蓝奏云上传限制换至其他网盘。</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;Fotor-Photo-Pro-照片编辑器-解锁会员专业版&quot;&gt;&lt;a href=&quot;#Fotor-Photo-Pro-照片编辑器-解锁会员专业版&quot; class=&quot;headerlink&quot; title=&quot;Fotor Photo Pro - 照片编辑器 解锁会员专业版&quot;&gt;&lt;</summary>
       
     
     
     
+    <category term="美化" scheme="https://vuili.github.io/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="照片编辑器" scheme="https://vuili.github.io/tags/%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/3hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/3hello-world/</id>
-    <published>2022-10-22T13:56:14.831Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>Nova启动器「Nova Launcher」 解锁专业版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E7%BE%8E%E5%8C%96/Nova%E5%90%AF%E5%8A%A8%E5%99%A8/"/>
+    <id>https://vuili.github.io/2022/06/06/%E7%BE%8E%E5%8C%96/Nova%E5%90%AF%E5%8A%A8%E5%99%A8/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Nova-启动器「Nova-Launcher」-解锁专业版"><a href="#Nova-启动器「Nova-Launcher」-解锁专业版" class="headerlink" title="Nova 启动器「Nova Launcher」 解锁专业版"></a>Nova 启动器「Nova Launcher」 解锁专业版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/147.png"></p><p>Nova Launcher - 桌面启动器</p><p>Nova 启动器 Nova Launcher 是一款第三方 Android 启动器，Nova 启动器「Nova Launcher」和之前推荐过的“APEX 启动器 Pro「Apex Launcher Pro」” 并称为 Android 4.0+ 的两大第三方启动器</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/148.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/149.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>Nova 启动器「Nova Launcher」支持的自定义设置项包括桌面设置、抽屉设置、布局设置、图标样式选项、文件夹设置、高级设置、备份与恢复……等等。当然也包括图标包的使用，谷歌 UI、安卓 UI、魅族 UI、华为 UI、三星 UI……任意厂商品牌图标 UI 都可以自定义修改，把系统设置的默认图标修改成你想要的图标即可，大家可以自行搜索下载自己喜欢的图标包慢慢把玩。<br>Nova 在 3D 按压时会显示 API 快捷菜单，即您只要按住桌面应用，就会弹出 API 快捷菜单功能，上面会显示编辑、删除、信息、卸载等。找到你想要的功能然后选择即可。</p><p>Nova 功能简介：</p><p>桌面设置：<br>自定义主屏网格行列数；<br>自定义主屏边距大小；<br>显示/隐藏固定在主屏的搜索栏；<br>自定义主屏数量、排列主屏位置；<br>自定义主屏滚动效果;<br>支持壁纸跟随主屏滚动；<br>自定义文件夹背景类型、文件夹排列类型；</p><div class="note success no-icon flat"><p>当前版本：v 7.0.57<br>软件大小：8.2MB<br>下载：<a href="https://wwd.lanzoul.com/b01szjxkh">https://wwd.lanzoul.com/b01szjxkh</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;Nova-启动器「Nova-Launcher」-解锁专业版&quot;&gt;&lt;a href=&quot;#Nova-启动器「Nova-Launcher」-解锁专业版&quot; class=&quot;headerlink&quot; title=&quot;Nova 启动器「Nova Launcher」 解锁专业版&quot;&gt;&lt;/a</summary>
       
     
     
     
+    <category term="美化" scheme="https://vuili.github.io/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="桌面启动器" scheme="https://vuili.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/2hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/2hello-world/</id>
-    <published>2022-10-22T13:56:06.585Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>泼辣修图Polarr Pro 破解付费专业版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E7%BE%8E%E5%8C%96/%E6%B3%BC%E8%BE%A3%E4%BF%AE%E5%9B%BE/"/>
+    <id>https://vuili.github.io/2022/06/06/%E7%BE%8E%E5%8C%96/%E6%B3%BC%E8%BE%A3%E4%BF%AE%E5%9B%BE/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="泼辣修图-Polarr-Pro-破解付费专业版"><a href="#泼辣修图-Polarr-Pro-破解付费专业版" class="headerlink" title="泼辣修图 Polarr Pro 破解付费专业版"></a>泼辣修图 Polarr Pro 破解付费专业版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/150.png"></p><p>Polarr Pro - 泼辣修图</p><p>无论你是入门新手还是摄影专家，泼辣修图「Polarr Pro」都可以满足你的一切需求。对于入门新手而言，泼辣修图搭载的先进自动增强工具和富有创意的图像滤镜，可以帮助他们快速雕琢图像的每一个细节。对于摄影专家而言，图层混合、局部调整、曲线工具等等功能则是他们青睐有加的高级特性。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/151.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/152.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>自定义图层和多种混合模式<br>•双重曝光特效和深度编辑工具<br>•完整而系统的局部调整和蒙板工具</p><p>工具：</p><p>•基于智能识别的先进面部编辑工具<br>•创建并分享你的自定义滤镜<br>•批量导出</p><p>滤镜：<br>•创建和分享你的自定义滤镜<br>•上百个免费滤镜，精心设计的高级滤镜<br>•在不同设备间同步你的滤镜</p><p>图层和混合模式:<br>•超过 10 种的图像混合模式<br>•为照片增加丰富特效包括云层、天气、漏光、炫光等等<br>•利用预设或自定义的渐变映射渲染照片，为照片赋予不同的色彩风格</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/156.jpg"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/157.png"></p>          </div><p>局部调整：</p><p>•深度编辑：基于双摄的深度信息编辑图片<br>•笔刷：手动绘制照片的影响区域<br>•选色：选取画面中色彩相似的区域进行调整<br>•圆形：以径向的方式作用画面<br>•渐变：以线性的方式作用画面<br>•明度：基于画面的明暗信息编辑照片<br>•局部调整辅助工具：虚化、反选、羽化等等工具<br>•基于局部调整工具进行图层混合<br>•无限制的局部调整叠加</p><p>全局调整：</p><p>•智能的自动增强功能，帮你快速优化曝光和白平衡<br>•颜色：色温、色调、自然饱和度、饱和度<br>•光效：去雾、曝光、亮度、对比度、高光、阴影、白色色阶、黑色色阶<br>•质感：清晰度、锐度、降噪色彩、降噪明度<br>•暗角：暗角程度、暗角羽化、暗角高光、暗角大小、暗角圆度<br>•畸变：镜头扭曲、水平透视、垂直透视<br>•特效：色差、像素化、噪点<br>•HSL：分别调整 8 种色彩的色相、饱和度与明度<br>•曲线工具：白色曲线、红色曲线、绿色曲线、蓝色曲线<br>•色调：高光色调与阴影色调，色彩平衡</p><p>高度自由度：<br>•选择深色主题或白色主题，你也可以自定义主题色彩<br>•支持两种工作模式：专业模式或快捷模式<br>•支持长按拖动图标以自定义界面。</p><div class="note success no-icon flat"><p>当前版本：v 6.5.1<br>软件大小：55MB<br>下载：<a href="https://wwd.lanzoul.com/b01t5jdib">https://wwd.lanzoul.com/b01t5jdib</a><br>提示：6.3.0 之后的版本需要账户登录<br>试了一下任意邮箱注册都可以进入，可自己试试看</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;泼辣修图-Polarr-Pro-破解付费专业版&quot;&gt;&lt;a href=&quot;#泼辣修图-Polarr-Pro-破解付费专业版&quot; class=&quot;headerlink&quot; title=&quot;泼辣修图 Polarr Pro 破解付费专业版&quot;&gt;&lt;/a&gt;泼辣修图 Polarr Pro 破</summary>
       
     
     
     
+    <category term="美化" scheme="https://vuili.github.io/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="照片编辑器" scheme="https://vuili.github.io/tags/%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/1hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/1hello-world/</id>
-    <published>2022-10-22T13:55:45.498Z</published>
-    <updated>2022-10-22T13:55:11.225Z</updated>
+    <title>Uptodown App Store - 谷歌应用第三方市场 无广告纯净版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E8%B0%B7%E6%AD%8C/Uptodown%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA/"/>
+    <id>https://vuili.github.io/2022/06/06/%E8%B0%B7%E6%AD%8C/Uptodown%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Uptodown-App-Store-谷歌应用第三方市场-无广告纯净版"><a href="#Uptodown-App-Store-谷歌应用第三方市场-无广告纯净版" class="headerlink" title="Uptodown App Store - 谷歌应用第三方市场 无广告纯净版"></a>Uptodown App Store - 谷歌应用第三方市场 无广告纯净版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/168.png"></p><p>Uptodown App Store - 应用市场<br>一款类似于 APKPure 的应用市场</p><p>特点：无广告提升速度<br>uptodown app store apk 是全球用户都在使用的应用商店，囊括了几乎所有的热门游戏和软件，搜索应用名称或安装包名称，即可免费下载商店内应用及游戏，下载软件不求人！</p><p>uptodown app 最新版介绍<br>uptodown app store 是非常好用的安卓手机应用商店 app，这里汇集了丰富的游戏和应用资源，支持在线查看详细的评测和简介，还可以直接下载自己感兴趣的 app 和安卓游戏，支持在线查看详细的评测和简介</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/169.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/170.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>uptodown 商店功能<br>每一个应用游戏都经过应用专家手工实测和机器校准，保证官方无恶意<br>超过百家专业媒体和微博达人入驻，为你推荐更多</p><p>好玩的应用游戏<br>用户可以自己上传软件<br>从全网 29 家应用商店收录了超 200 万的应用和游戏<br>全网最全面的应用库，随便来折腾</p><p>软件优势<br>apkpure 在你的语言<br>apkpure 手机应用程序可以在以下语言:英语(美国),中国，即将到来:阿拉伯语,日语,荷兰语,德语、法语、韩语、葡萄牙语、俄语、西班牙语等</p><div class="note success no-icon flat"><p>当前版本：v 4.41<br>软件大小：9.1MB<br>下载：<a href="https://wwd.lanzoul.com/b01vgllij">https://wwd.lanzoul.com/b01vgllij</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;Uptodown-App-Store-谷歌应用第三方市场-无广告纯净版&quot;&gt;&lt;a href=&quot;#Uptodown-App-Store-谷歌应用第三方市场-无广告纯净版&quot; class=&quot;headerlink&quot; title=&quot;Uptodown App Store - 谷</summary>
       
     
     
     
+    <category term="谷歌" scheme="https://vuili.github.io/categories/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+    <category term="应用市场" scheme="https://vuili.github.io/tags/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vuili.github.io/2022/10/22/hello-world/"/>
-    <id>https://vuili.github.io/2022/10/22/hello-world/</id>
-    <published>2022-10-22T05:06:44.184Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
+    <title>Chrome 谷歌浏览器</title>
+    <link href="https://vuili.github.io/2022/06/06/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <id>https://vuili.github.io/2022/06/06/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Chrome-谷歌浏览器"><a href="#Chrome-谷歌浏览器" class="headerlink" title="Chrome 谷歌浏览器"></a>Chrome 谷歌浏览器</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/161.png"></p><p>Chrome 浏览器，一般又称 Chrome。<br>Google Chrome 是一款快速、易用且安全的网络浏览器。此版 Chrome 是专为 Android 设计的，不仅可为您量身推荐新闻报道，还有快速链接指向您所收藏的网站和下载的内容，甚至还内置了 Google 搜索和谷歌翻译。立即下载此版 Chrome，在您的所有设备上享受一致的 Chrome 网络浏览器体验吧。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/162.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/163.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>快速浏览，减少输入操作。您既可从即搜即得的个性化搜索结果中进行选择，也可快速浏览之前访问过的网页。您还可使用“自动填充”功能快速填写表单。<br>无痕式浏览。您可以使用无痕模式浏览互联网 - 在这种模式下，系统不会保存您的历史记录。在您的所有设备上，您都能私密地浏览。<br>在多部设备间同步 Chrome。当您登录 Chrome 之后，您的书签、密码和设置将会自动在您的所有设备之间保持同步。您可在手机、平板电脑或笔记本电脑上无缝访问自己的所有信息。<br>只需轻轻点按一下，即可查看您收藏的所有内容。Chrome 并非只能快速执行 Google 搜索，而是经过了精心设计，只需轻轻一按即可浏览收藏的所有内容。您可在新标签页中直接点按收藏的新闻网站或社交媒体。Chrome 还提供了“点按搜索”功能 - 该功能在大多数网页上可用。您只需在当前浏览的网页中点按任意字词或短语，即可在不离开该网页的情况下发起 Google 搜索。<br>使用 Google 安全浏览功能保护手机。Chrome 内置了 Google 安全浏览功能。当您尝试访问危险网站或下载危险文件时，该功能会向您显示警告以保护手机的安全。</p><div class="note success no-icon flat"><p>当前版本：v 102.0.5005.59<br>软件大小：116MB<br>回复获取：谷歌浏览器<br>请在公众号内输入“谷歌浏览器”获取</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;Chrome-谷歌浏览器&quot;&gt;&lt;a href=&quot;#Chrome-谷歌浏览器&quot; class=&quot;headerlink&quot; title=&quot;Chrome 谷歌浏览器&quot;&gt;&lt;/a&gt;Chrome 谷歌浏览器&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://picodemo-131</summary>
       
     
     
     
+    <category term="谷歌" scheme="https://vuili.github.io/categories/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+    <category term="浏览器" scheme="https://vuili.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NP文件管理器(最新版) 一款具备反编译功能的安卓逆向工具</title>
+    <link href="https://vuili.github.io/2022/06/06/%E9%80%86%E5%90%91/NP%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/"/>
+    <id>https://vuili.github.io/2022/06/06/%E9%80%86%E5%90%91/NP%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:54:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="NP-文件管理器-最新版-一款具备反编译功能的安卓逆向工具"><a href="#NP-文件管理器-最新版-一款具备反编译功能的安卓逆向工具" class="headerlink" title="NP 文件管理器(最新版) 一款具备反编译功能的安卓逆向工具"></a>NP 文件管理器(最新版) 一款具备反编译功能的安卓逆向工具</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/131.png"></p><p>一款非常好用的安卓文件管理应用，它的功能跟 MT 管理器很类似，都具备反编译等安卓逆向的功能，但是 MT 管理器在某些方面会比 NP 强一些，但是 NP 胜于完全免费使用。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/132.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/133.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>【功能特点】</p><p>主要是对 Apk、Dex、Jar、Smali、Pdf、视频和音频文件的简单应用。</p><p>Dex、jar、smali 文件的相互转换；</p><p>Dex、Pdf 文件合并；</p><p>Apk、dex、jar 混淆和字符串加密；</p><p>Apk 签名、共存、去除签名校验、对话框取消、去除 V-P-N/代理检测；</p><p>Pdf 加密、分割、提取、解除加密限制、删页；</p><p>视频转码、剪切、提取音频/视频流、自定义音频/视频操作；</p><p>文件夹转码 GBK&lt;–&gt;UTF-8；</p><p>So 文件查看字符常量；</p><p>Apk 加固判断，Dex 编辑(批量删除类)；</p><p>高兼容性字符串加密(Apk、dex)；</p><p>工具箱(常见字符串转换，如 base64、des、md5、16 进制、Unicode、去空白等)；</p><p>Smali 文件转 Java；</p><p>Res 资源混淆；</p><p>一键添加 Xposed 检测，一键添加弹窗、对话框；</p><p>axml 反编译、arsc 文件查看字符常量；</p><p>一键 LOG 注入，一键去除所有弹窗(Toast)；</p><p>一键注入字符串解密 LOG，Dex 文件换包名；</p><p>多种 Apk 字符串加密方案；</p><p>一键添加禁止截屏；</p><div class="note success no-icon flat"><p>当前版本：v 3.0.38<br>软件大小：35MB<br>下载：<a href="https://wwd.lanzoul.com/b01ve7p4d">https://wwd.lanzoul.com/b01ve7p4d</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;NP-文件管理器-最新版-一款具备反编译功能的安卓逆向工具&quot;&gt;&lt;a href=&quot;#NP-文件管理器-最新版-一款具备反编译功能的安卓逆向工具&quot; class=&quot;headerlink&quot; title=&quot;NP 文件管理器(最新版) 一款具备反编译功能的安卓逆向工具&quot;&gt;&lt;/</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="文件管理" scheme="https://vuili.github.io/tags/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Termux 基于安卓Android手机的一款高级终端</title>
+    <link href="https://vuili.github.io/2022/06/06/%E9%80%86%E5%90%91/Termux%E9%AB%98%E7%BA%A7%E7%BB%88%E7%AB%AF/"/>
+    <id>https://vuili.github.io/2022/06/06/%E9%80%86%E5%90%91/Termux%E9%AB%98%E7%BA%A7%E7%BB%88%E7%AB%AF/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Termux-基于安卓-Android-手机的一款高级终端"><a href="#Termux-基于安卓-Android-手机的一款高级终端" class="headerlink" title="Termux 基于安卓 Android 手机的一款高级终端"></a>Termux 基于安卓 Android 手机的一款高级终端</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/134.png"></p><p>Termux - 高级终端</p><p>Termux 是一个 Android 下一个高级的终端模拟器, 开源且不需要 root，支持 apt 管理软件包，十分方便安装软件包, 完美支持 Python, PHP, Ruby, Go, Nodejs, MySQL 等。</p><p>随着智能设备的普及和性能的不断提升，如今的手机、平板等的硬件标准已达到了初级桌面计算机的硬件标准, 用心去打造完全可以把手机变成一个强大的工具。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/135.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/136.png"></p>          </div><h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>个人用 Termux 主要写 Hexo 因为一共就那几条命令 打开电脑太麻烦了，当然你也可以搭建完整的 Linux 环境，看个人需求。</p><p>Hexo 安装命令：</p><p>termux-setup-storage</p><p>pkg install nodejs-lts vim git -y</p><p>pkg update &amp;&amp; pkg upgrade</p><p>npm install -g hexo-cli</p><p>pkg install nodejs</p><div class="note success no-icon flat"><p>当前版本：v 0.118.0<br>软件大小：97MB<br>下载：<a href="https://wwd.lanzoul.com/b01vebwbg">https://wwd.lanzoul.com/b01vebwbg</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Termux-基于安卓-Android-手机的一款高级终端&quot;&gt;&lt;a href=&quot;#Termux-基于安卓-Android-手机的一款高级终端&quot; class=&quot;headerlink&quot; title=&quot;Termux 基于安卓 Android 手机的一款高级终端&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="高级终端" scheme="https://vuili.github.io/tags/%E9%AB%98%E7%BA%A7%E7%BB%88%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发助手专业版-直装付费专业版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E9%80%86%E5%90%91/%E5%BC%80%E5%8F%91%E5%8A%A9%E6%89%8B%E4%B8%93%E4%B8%9A%E7%89%88/"/>
+    <id>https://vuili.github.io/2022/06/06/%E9%80%86%E5%90%91/%E5%BC%80%E5%8F%91%E5%8A%A9%E6%89%8B%E4%B8%93%E4%B8%9A%E7%89%88/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="开发助手专业版-直装付费专业版"><a href="#开发助手专业版-直装付费专业版" class="headerlink" title="开发助手专业版-直装付费专业版"></a>开发助手专业版-直装付费专业版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/140.png"></p><p>“开发助手专业版”是“开发助手”的升级版，通过它可以快速查看 Activity 历史记录、快速查看及搜索其他应用 Manifest、快速一键开关常用的开发者选项功能、快速查看系统软硬件信息等。</p><p>目前主要功能包括：</p><p>快速查看 Activity 历史</p><p>查看当前栈顶 Activity 以及历史显示过的 Activity 的信息，包括应用名、应用包名、应用 Icon、Activity 名、Activity 标题、打开的时间。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/141.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/142.jpg"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>Activity 名、Activity 标题、打开的时间默认不显示，可通过右上角菜单配置。<br>同时支持以小窗模式显示，如下图，方便的知道目前显示的 Activity 信息。<br>点击小窗内容可返回详细信息页面。</p><p>2、快速查看应用 AndroidManifest 信息类似 Android Studio 样式显示任意 App 的 Manifest 信息，并自动格式化，支持搜索关键字、支持以 Text 或者 Html 形式保存文件。效果如下图：</p><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/143.jpg"></p><p>3、一键快速开关开发者选项包括一键快速自动切换显示布局边界、显示 GPU 过度绘制、显示布局更新、强制 GPU 渲染、显示 GPU 视图更新、显示 GPU 呈现模式、显示指针位置、严格模式、不保留活动、不锁定屏幕、正在运行的服务、系统界面调节。<br>自动开启布局边界、显示指针位置、显示 GPU 呈现模式分析如下图(开发助手截图类似)：</p><p>4、快速查看系统相关信息包括快速查看 Android 手机屏幕、系统、硬件、虚拟机、网络、CPU、ID 等相关的 41 项信息。利用开发助手高级版查看系统相关信息合图如下：</p><p>5、快速开启设置、语言切换、我的应用<br>可以快速跳转到系统设置、系统语言切换、我的应用界面。</p><p>6、工具快捷方式——快，更快我们的目标是更高效率，应用支持各种快捷方式打开，连打开 App 的过程都不再需要。(1) 可以通过长按任意工具图标添加其快捷方式到桌面 (2) 可以添加桌面 Widget 到工具到桌面 (3) Android 7.0 及以上可通过快速设置将工具添加到通知栏 (4) Android 7.1 及以上可通过在桌面长按应用图标弹出的 Shortcut 列表快速启动最近使用的工具。</p><div class="note success no-icon flat"><p>当前版本：v 6.4.5<br>软件大小：6.1MB<br>下载:<a href="https://wwd.lanzoul.com/ifamQ058msze">https://wwd.lanzoul.com/ifamQ058msze</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;开发助手专业版-直装付费专业版&quot;&gt;&lt;a href=&quot;#开发助手专业版-直装付费专业版&quot; class=&quot;headerlink&quot; title=&quot;开发助手专业版-直装付费专业版&quot;&gt;&lt;/a&gt;开发助手专业版-直装付费专业版&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="开发助手" scheme="https://vuili.github.io/tags/%E5%BC%80%E5%8F%91%E5%8A%A9%E6%89%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七-猫免费小说 无广告解锁会员版</title>
+    <link href="https://vuili.github.io/2022/06/06/%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4/"/>
+    <id>https://vuili.github.io/2022/06/06/%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4/</id>
+    <published>2022-06-05T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="七-猫免费小说-无广告解锁会员版"><a href="#七-猫免费小说-无广告解锁会员版" class="headerlink" title="七-猫免费小说 无广告解锁会员版"></a>七-猫免费小说 无广告解锁会员版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/153.png"></p><p>七猫小说 - 免费小说阅读器<br>放手机里吃灰有一段时间了<br>偶尔用来听个书<br>版本可能不是很高<br>但是干净没什么广告</p><p>七猫免费阅读小说是一款专业好用的移动小说阅读应用。致力为您打造最佳的贴心舒适阅读体验，涵盖了全面的书籍资源，精选书城，优质推荐。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/154.png"><br>![](<a href="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/155.png">https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/155.png</a></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>【语音朗读免费听】 语音朗读功能提供多种声音任你选择，满足你的听书需 求，解放双眼，随时随地听小说，海量小说免费听！</p><div class="note success no-icon flat"><p>当前版本：v 9.99<br>软件大小：30MB<br>下载：<a href="https://wwd.lanzoul.com/i26o705jfbcd">https://wwd.lanzoul.com/i26o705jfbcd</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;七-猫免费小说-无广告解锁会员版&quot;&gt;&lt;a href=&quot;#七-猫免费小说-无广告解锁会员版&quot; class=&quot;headerlink&quot; title=&quot;七-猫免费小说 无广告解锁会员版&quot;&gt;&lt;/a&gt;七-猫免费小说 无广告解锁会员版&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http</summary>
+      
+    
+    
+    
+    <category term="小说" scheme="https://vuili.github.io/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="小说" scheme="https://vuili.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="阅读" scheme="https://vuili.github.io/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Premium Mod 代码编辑器 （解锁付费汉化版）</title>
+    <link href="https://vuili.github.io/2022/05/16/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    <id>https://vuili.github.io/2022/05/16/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8/</id>
+    <published>2022-05-15T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Premium-Mod-代码编辑器-（解锁付费汉化版）"><a href="#Premium-Mod-代码编辑器-（解锁付费汉化版）" class="headerlink" title="Premium Mod 代码编辑器 （解锁付费汉化版）"></a>Premium Mod 代码编辑器 （解锁付费汉化版）</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/118.png"></p><p>Premium Mod - 代码编辑器</p><p>代码编辑器是一个优化的文本编辑器，专注于编码。它是在 Android 上进行开发的便捷工具。它包含编码所需的功能，包括语法高亮、自动缩进、代码辅助、自动完成等。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/117.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/116.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>代码编辑器 APK 功能：</p><p>★ 超过 110 种语言的语法高亮显示（c++、java、javascript、html、markdown、php、perl、python、lua、dart 等）。</p><p>★ 代码辅助、折叠和自动完成。</p><p>★ 在多个标签之间轻松导航。</p><p>★ 无限制地撤消和重做更改。</p><p>★ 用正则表达式搜索和替换。</p><p>★ 显示或隐藏行号。</p><p>★ 突出匹配括号</p><p>★ 自动缩进和 outdent。</p><p>★ 显示隐形字符。</p><p>★ 从最近打开或添加的文件集合中打开文件</p><p>★ 预览 HTML 和 Markdown 文件。</p><p>★ 包括对 Web 开发的 Emmet 支持。</p><p>★ 使用内置的 JavaScript 控制台评估 JavaScript 代码。</p><p>★ 从 FTP、FTPS、SFTP 和 WebDAV 访问文件。</p><p>★ 集成并轻松访问 GitHub 和 GitLab。</p><p>★ 从 Google Drive、Dropbox 和 OneDrive 访问文件。</p><p>★ 物理键盘支持，包括组合键。</p><p>★ 3 个应用主题和 30 多个语法高亮主题。</p><div class="note success no-icon flat"><p>当前版本：v 0.7.3<br>软件大小：9.8MB<br>下载：<a href="https://wwd.lanzoul.com/iVU5P04o942j">https://wwd.lanzoul.com/iVU5P04o942j</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Premium-Mod-代码编辑器-（解锁付费汉化版）&quot;&gt;&lt;a href=&quot;#Premium-Mod-代码编辑器-（解锁付费汉化版）&quot; class=&quot;headerlink&quot; title=&quot;Premium Mod 代码编辑器 （解锁付费汉化版）&quot;&gt;&lt;/a&gt;Premi</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="代码编辑器" scheme="https://vuili.github.io/tags/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【流量卡推荐】不限速全国通用 29/月 70G+30G</title>
+    <link href="https://vuili.github.io/2022/05/16/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    <id>https://vuili.github.io/2022/05/16/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/%E6%B5%81%E9%87%8F%E5%8D%A1/</id>
+    <published>2022-05-15T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="【流量卡推荐】不限速全国通用-29-月-70G-30G"><a href="#【流量卡推荐】不限速全国通用-29-月-70G-30G" class="headerlink" title="【流量卡推荐】不限速全国通用 29/月 70G+30G"></a>【流量卡推荐】不限速全国通用 29/月 70G+30G</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/125.png"></p><p>流量卡 - 非物联卡</p><p>【电信流量卡】-长期套餐，永久使用</p><p>1.对接电信官方正规后台这个不用担心</p><p>2.上架的流量卡不是“物联卡”，流量不会【虚】</p><p>3.信号与网速取决于当地的信号环境</p><p>4.归属地没有太大影响，很多业务都可以在网上办理，销户也可以异地销户</p><h3 id="扫描-0-元办理"><a href="#扫描-0-元办理" class="headerlink" title="扫描 0 元办理"></a>扫描 0 元办理</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/126.png"></p><p>QQ 群号：933765924<br>创了个新群方便咨询办理<br>激活后有问题尽量找官方客服<br>毕竟人家是专业的<br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/127.jpg"></p><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>电信 29 元流量卡，每月包含 70G 通用流量+30G 定向流量+众多定向免流软件，本套餐为长期套餐，当月流量用不完可以结转至次月，月租和套餐内容长期不变，无返费无任何套路。</p><p>本卡是电信官方正规流量卡，由于目前电诈活动猖獗，运营商为降低风险，特推出纯流量卡套餐，关闭接打电话功能（非物联卡，可上网、可收发短信）。本卡无合约期，可随时注销，套餐电信任意渠道可查。全国包邮，免费办理。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;【流量卡推荐】不限速全国通用-29-月-70G-30G&quot;&gt;&lt;a href=&quot;#【流量卡推荐】不限速全国通用-29-月-70G-30G&quot; class=&quot;headerlink&quot; title=&quot;【流量卡推荐】不限速全国通用 29/月 70G+30G&quot;&gt;&lt;/a&gt;【流量卡推</summary>
+      
+    
+    
+    
+    <category term="推荐" scheme="https://vuili.github.io/categories/%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="流量卡" scheme="https://vuili.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kiwi Browser 猕猴桃浏览器 Github+Play支持扩展插件</title>
+    <link href="https://vuili.github.io/2022/05/15/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/Kiwi%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <id>https://vuili.github.io/2022/05/15/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/Kiwi%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
+    <published>2022-05-14T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Kiwi-Browser-猕猴桃浏览器-Github-Play-支持扩展插件"><a href="#Kiwi-Browser-猕猴桃浏览器-Github-Play-支持扩展插件" class="headerlink" title="Kiwi Browser 猕猴桃浏览器 Github+Play 支持扩展插件"></a>Kiwi Browser 猕猴桃浏览器 Github+Play 支持扩展插件</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/119.png"></p><p>Kiwi Browser - 浏览器</p><p>Kiwi Browser，也叫猕猴桃浏览器，基于谷歌 Chromium 内核，它是首款可以防止黑客利用设备挖矿，支持 Chrome 扩展程序的手机浏览器 。访问网页速度更快，且无视 Facebook 封锁限制。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/120.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/121.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>基于开源的谷歌内核 Chromium，独家实现移动端安装扩展程序支持</p><p>■ 流畅的页面加载速度，得益于优化后的渲染引擎，超快的速度加载网页</p><p>■ 功能强大的广告拦截功能，可自定义阻止大多数的网页广告及弹窗拦截</p><p>■ 保护隐私，首款防止黑客利用你的设备挖掘加密货币的 Android 浏览器</p><p>■ 解除 Facebook 区域封锁限制，访问 m.facebook.com 无需用代理工具</p><p>更多优点：</p><p>■ 夜间模式可自定义对比度和纯透明模式、支持即使屏幕关闭也能播放视频和音乐</p><p>■ 支持显示底部地址栏、管理主页网站（长按移动或删除图块，单击[+]添加新网站）</p><p>■ 支持在设置-隐私-禁用 AMP、默认阻止烦人通知、侵入式的跟踪器以保护安全隐私</p><p>■ 网页翻译功能相比原版可翻译成 60 种语言、支持导入/导出书签、自定义下载路径等</p><p>高级用户：</p><p>如果要打开与外部应用程序的链接，可长按该链接，或更改设置</p><p>【辅助功能】中的默认设置。</p><p>要添加新的搜索引擎，请转到您最喜欢的搜索引擎，然后进行几项搜索，然后转到设置，搜索引擎。</p><div class="note success no-icon flat"><p>当前版本：v 101.0.4951.57<br>软件大小：208MB<br>下载：<a href="https://wwd.lanzoul.com/b01vdnjkd">https://wwd.lanzoul.com/b01vdnjkd</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Kiwi-Browser-猕猴桃浏览器-Github-Play-支持扩展插件&quot;&gt;&lt;a href=&quot;#Kiwi-Browser-猕猴桃浏览器-Github-Play-支持扩展插件&quot; class=&quot;headerlink&quot; title=&quot;Kiwi Browser 猕猴桃</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="浏览器" scheme="https://vuili.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    <category term="Kiwi 浏览器" scheme="https://vuili.github.io/tags/Kiwi-%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Periodic_Table Pro 元素周期表_解锁专业版 价值1.99美元</title>
+    <link href="https://vuili.github.io/2022/05/15/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8/"/>
+    <id>https://vuili.github.io/2022/05/15/%E5%85%A8%E9%83%A8%E6%96%87%E7%AB%A0/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8/</id>
+    <published>2022-05-14T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="PeriodicTable-Pro-元素周期表解锁专业版-价值-1-99-美元"><a href="#PeriodicTable-Pro-元素周期表解锁专业版-价值-1-99-美元" class="headerlink" title="PeriodicTable Pro 元素周期表解锁专业版 价值 1.99 美元"></a>Periodic<em>Table Pro 元素周期表</em>解锁专业版 价值 1.99 美元</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/122.png"></p><p>Periodic Table Pro - 元素周期表</p><p>化学是最重要的学科之一，也是最重要的学科之一。</p><p>它的研究从周期表开始。对培训材料的互动方法比传统方法更有效。在这方面，成为现代学生家庭的技术被使用。</p><p>周期表-是一个用于 Android 的应用程序，它在启动界面上显示整个周期表。该表以国际纯化学和应用化学联合会(IUPAC)批准的长表格为核心。除了化学元素周期表外，还可以使用溶解度表。</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/123.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/124.png"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>周期表 2022 专业版差异： -更具互动性的表格 -不断增加新的应用信息内容 -关于其他内容的更多信息 -电导率 -电动型 -磁性类型 -体磁化率 -特异性磁化率 -温度超导电性 -物品的颜色 -密度 -折射指数 -导热系数 -电负性 -放射性 -半衰期 -摩尔体积<br>还有更多 -当您单击任何元素时，提供不断更新的信息。 -因为大多数物品都有图像。</p><div class="note success no-icon flat"><p>当前版本：v 0.2.119<br>软件大小：23MB<br>下载：<a href="https://wwd.lanzoul.com/i9CbC04sjxdi">https://wwd.lanzoul.com/i9CbC04sjxdi</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;PeriodicTable-Pro-元素周期表解锁专业版-价值-1-99-美元&quot;&gt;&lt;a href=&quot;#PeriodicTable-Pro-元素周期表解锁专业版-价值-1-99-美元&quot; class=&quot;headerlink&quot; title=&quot;PeriodicTable </summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://vuili.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="元素周期表" scheme="https://vuili.github.io/tags/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coffee Cam专业设计的滤镜 1000+多色素材(高级无广告版）</title>
+    <link href="https://vuili.github.io/2022/05/11/%E7%BE%8E%E5%8C%96/Coffee%E6%BB%A4%E9%95%9C/"/>
+    <id>https://vuili.github.io/2022/05/11/%E7%BE%8E%E5%8C%96/Coffee%E6%BB%A4%E9%95%9C/</id>
+    <published>2022-05-10T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Coffee-Cam-专业设计的滤镜-1000-多色素材-高级无广告版）"><a href="#Coffee-Cam-专业设计的滤镜-1000-多色素材-高级无广告版）" class="headerlink" title="Coffee Cam 专业设计的滤镜 1000+多色素材(高级无广告版）"></a>Coffee Cam 专业设计的滤镜 1000+多色素材(高级无广告版）</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/114.jpg"></p><p>Coffee Cam - 多色滤镜</p><p>Coffee Cam 是一个表达真实自我的地方，在手机上拍出漂亮的照片。<br>使用质量预设和编辑工具将您的摄影提升到一个新的水平。创建带有复古气息的精美照片</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/115.png"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/116.jpg"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><ul><li><p>惊人的照片编辑器</p></li><li><p>70+ 专业设计的滤镜</p></li><li><p>20+ 胶片划痕和灰尘</p></li><li><p>1000+ 多色滤镜</p></li><li><p>40+ 漏光效果</p></li><li><p>3D 效果（色差） + 故障</p></li><li><p>30+ 复古面具样式</p></li><li><p>调整（对比度、锐化、亮度、晕影、HSL、HSV、雾度、色彩平衡、白平衡、曝光等）</p></li></ul><p>——无损编辑。返回并更改您想要的任何内容。</p><ul><li>使用预设创建自己的食谱</li></ul><p>高级升级（一次性购买）</p><ul><li>没有广告。</li></ul><p>– 解锁所有过滤器。</p><ul><li><p>无限编辑照片。</p></li><li><p>创建滤镜食谱（您自己的滤镜，以及您可以再次应用于照片的效果）</p></li></ul><div class="note success no-icon flat"><p>当前版本：v 1.7.9<br>软件大小：22MB<br>下载：<a href="https://wwd.lanzoul.com/i2OuP04kky5e">https://wwd.lanzoul.com/i2OuP04kky5e</a></p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Coffee-Cam-专业设计的滤镜-1000-多色素材-高级无广告版）&quot;&gt;&lt;a href=&quot;#Coffee-Cam-专业设计的滤镜-1000-多色素材-高级无广告版）&quot; class=&quot;headerlink&quot; title=&quot;Coffee Cam 专业设计的滤镜 1</summary>
+      
+    
+    
+    
+    <category term="美化" scheme="https://vuili.github.io/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="图片编辑器" scheme="https://vuili.github.io/tags/%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    <category term="滤镜" scheme="https://vuili.github.io/tags/%E6%BB%A4%E9%95%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Reface Pro – 换脸视频工具 (解锁会员版）</title>
+    <link href="https://vuili.github.io/2022/05/11/%E8%B0%B7%E6%AD%8C/Reface%E6%8D%A2%E8%84%B8/"/>
+    <id>https://vuili.github.io/2022/05/11/%E8%B0%B7%E6%AD%8C/Reface%E6%8D%A2%E8%84%B8/</id>
+    <published>2022-05-10T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Reface-Pro-–-换脸视频工具-解锁会员版）"><a href="#Reface-Pro-–-换脸视频工具-解锁会员版）" class="headerlink" title="Reface Pro – 换脸视频工具 (解锁会员版）"></a>Reface Pro – 换脸视频工具 (解锁会员版）</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/110.jpg"></p><p>Reface Pro - 换脸视频工具</p><p>在 100 多个国家/地区中排名前 5 位的应用</p><p>REFACE 前身为 Doublicat，是全球 100 多个国家/地区中首屈一指的面部互换应用程序。Reface 由 RefaceAI（最先进，最先进的人脸互换 AI / ML 技术）提供技术支持，并已在《福布斯》，Mashable，TNW 和 Digital Trends 中提及.</p><div class="fj-gallery"><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/112.jpg"><br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/113.jpg"></p>          </div><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>什么是 Deepfake？</p><p>Deepfake 技术不只是交换面孔。借助 REFACE 独特的 Deepfake AI，您可以将自拍图像以您见过的最怪异的逼真的方式映射到另一张脸，并以令人信服的面部表情和动作真正看起来像您。使用我们定制的 RefaceAI，您可以看到担任主演角色，著名视频等内容时的表情。我们该怎么做呢？如果我们告诉您，我们将不得不杀死您，但您知道结果绝对是惊人的。</p><p>“如果您想向您的朋友和家人展示一些真诚的 GIF，请考虑尝试一下。我们不承担任何责任。”-混搭。假装自己</p><div class="note success no-icon flat"><p>当前版本：v 2.14.0<br>软件大小：31MB<br>下载：<a href="https://wwd.lanzoul.com/ivbul04iqc0b">https://wwd.lanzoul.com/ivbul04iqc0b</a><br>需配合上网工具使用</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Reface-Pro-–-换脸视频工具-解锁会员版）&quot;&gt;&lt;a href=&quot;#Reface-Pro-–-换脸视频工具-解锁会员版）&quot; class=&quot;headerlink&quot; title=&quot;Reface Pro – 换脸视频工具 (解锁会员版）&quot;&gt;&lt;/a&gt;Reface </summary>
+      
+    
+    
+    
+    <category term="谷歌" scheme="https://vuili.github.io/categories/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+    <category term="GIF" scheme="https://vuili.github.io/tags/GIF/"/>
+    
+    <category term="换脸工具" scheme="https://vuili.github.io/tags/%E6%8D%A2%E8%84%B8%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「谷歌地球」精简/破解无广告/清爽版</title>
+    <link href="https://vuili.github.io/2022/05/11/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE/"/>
+    <id>https://vuili.github.io/2022/05/11/%E8%B0%B7%E6%AD%8C/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE/</id>
+    <published>2022-05-10T16:00:00.000Z</published>
+    <updated>2022-08-27T15:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="「谷歌地球」精简-破解无广告-清爽版"><a href="#「谷歌地球」精简-破解无广告-清爽版" class="headerlink" title="「谷歌地球」精简/破解无广告/清爽版"></a>「谷歌地球」精简/破解无广告/清爽版</h3><p><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/120.jpg"></p><p>使用 Google 地球 Android 版，只需轻轻滑动手指，即可畅游全世界。<br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/117.jpg"><br>Google 另一款著名的产品 Google Earth（谷歌地球），谷歌地球（Google Earth，简称 GE）是一款 Google 公司开发的虚拟地球仪软件，它把卫星照片、航空照相和 GIS 布置在一个地球的三维模型上，让您更清楚滴了解地球。<br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/118.jpg"><br>Google Earth 于 2005 年向全球推出，被“PC 世界杂志”评为 2005 年全球 100 种最佳新产品之一。用户们可以通过一个下载到自己电脑上的客户端软件，免费浏览全球各地的高清晰度卫星图片。Google 地球分为免费版与专业版两种。<br><img src="https://picodemo-1313520128.cos.ap-guangzhou.myqcloud.com/img/119.jpg"></p><h3 id="简介内容"><a href="#简介内容" class="headerlink" title="简介内容"></a>简介内容</h3><p>Google Earth 采用的 3D 地图定位技术能够把 Google Map 上的最新卫星图片推向一个新水平。用户可以在 3D 地图上搜索特定区域，放大缩小虚拟图片，然后形成行车指南。此外，Google Earth 还精心制作了一个特别选项——鸟瞰旅途，让驾车人士的活力油然而生。Google Earth 主要通过访问 Keyhole 的航天和卫星图片扩展数据库来实现这些上述功能。该数据库在上星期进行了更新，它含有美国宇航局提供的大量地形数据，未来还将覆盖更多的地形，涉及田园，荒地等。</p><p>浏览伦敦、东京和罗马等城市的 3D 图像</p><p>·通过集成的街景，探访世界的各个角落</p><p>·使用游览向导功能探寻引人入胜的新地点</p><p>·浏览“维基百科”或“照片”图层，了解相应地点的</p><p>·从“地图库”中发掘有趣的地图（例如，实时绘制的地震点、飞行中航班的位置以及远足路线等）</p><div class="note success no-icon flat"><p>当前版本：v9.155.0.2<br>软件大小：21MB<br>下载：<a href="https://wwi.lanzoui.com/b01svhpng">https://wwi.lanzoui.com/b01svhpng</a><br>密码：dbns<br>需配合梯子使用，链接或群都有免费提供</p></div><div class="note danger no-icon flat"><p>需知：素材源于网络仅供学习参考，请在 24 小时内删除，切勿贩卖违者必究，侵权请联系删除。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;「谷歌地球」精简-破解无广告-清爽版&quot;&gt;&lt;a href=&quot;#「谷歌地球」精简-破解无广告-清爽版&quot; class=&quot;headerlink&quot; title=&quot;「谷歌地球」精简/破解无广告/清爽版&quot;&gt;&lt;/a&gt;「谷歌地球」精简/破解无广告/清爽版&lt;/h3&gt;&lt;p&gt;&lt;img s</summary>
+      
+    
+    
+    
+    <category term="谷歌" scheme="https://vuili.github.io/categories/%E8%B0%B7%E6%AD%8C/"/>
+    
+    
+    <category term="谷歌地球" scheme="https://vuili.github.io/tags/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E7%90%83/"/>
+    
+    <category term="地图" scheme="https://vuili.github.io/tags/%E5%9C%B0%E5%9B%BE/"/>
     
   </entry>
   
